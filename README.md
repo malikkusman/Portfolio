@@ -12,8 +12,7 @@ Welcome to my Personal Portfolio Website! This project is a showcase of my skill
 4. [Installation and Setup](#installation-and-setup)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ## Project Description
 
@@ -84,9 +83,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 3. Make your changes.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
