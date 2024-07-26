@@ -86,5 +86,5 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## Contact
 
-Feel free to reach out to me via email at [your.email@example.com](mailto:42khan0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-usman-asghar).
+Feel free to reach out to me via email at [email](mailto:42khan0@gmail.com)
 
